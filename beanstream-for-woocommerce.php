@@ -13,6 +13,7 @@
  * Thanks to both Stephen Zuniga & Sean Voss
  * Stephen Zuniga // http://stephenzuniga.com
  * Sean Voss // https://github.com/seanvoss/striper
+ * Some Changes
  *
  */
 
