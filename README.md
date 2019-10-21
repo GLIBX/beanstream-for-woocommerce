@@ -18,5 +18,5 @@ This repo was originally created by vkuberan. we decided to take it further and 
 
 ## TODO 
 
-Fix initiate refund issue (currently broken)
-Add additional helpful data on website admin section
+- Fix initiate refund issue (currently broken)
+- Add additional helpful data on website admin section
