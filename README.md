@@ -12,5 +12,5 @@ Beanstream allows you to take credit card payments without having to put a lot o
 If you use this plugin, all you have to do is include an SSL certificate on your site and the hard work is done for you. Credit card breaches are serious, and with this plugin and an SSL certificate, you're protected. Your customers credit card information never hits your servers, it goes from your customers computer straight to Beanstream servers keeping their information safe.
 
 
-## Contributing
-If you'd like to contribute, feel free to tackle a feature or fix a bug and when you're ready, send a pull request.
+## Glibx INC
+This repo was originally created by vkuberan. we decided to take it further and contribute some key componants and will be kept up to date moving forward
