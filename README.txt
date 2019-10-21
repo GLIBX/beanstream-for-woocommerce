@@ -19,7 +19,7 @@ Beanstream allows you to take credit card payments without having to put a lot o
 If you use this plugin, all you have to do is include an SSL certificate on your site and the hard work is done for you. Credit card breaches are serious, and with this plugin and an SSL certificate, you're protected. Your customers credit card information never hits your servers, it goes from your customers computer straight to Beanstream servers keeping their information safe.
 
 = Contributing =
-If you'd like to contribute, feel free to tackle a feature or fix a bug on [Github](https://github.com/vkuberan/beanstream-for-woocommerce) and when you're ready, send a pull request. If you'd like to get more involved than that, please e-mail me at [vkuberan@outlook.com](mailto:vkuberan@outlook.com).
+If you'd like to contribute, feel free to tackle a feature or fix a bug on [Github](https://github.com/GLIBX/beanstream-for-woocommerce) and when you're ready, send a pull request. If you'd like to get more involved than that, please e-mail me at [vkuberan@outlook.com](mailto:vkuberan@outlook.com).
 
 == Installation ==
 
@@ -61,7 +61,7 @@ Yes you do. For any transaction involving sensitive information, you should take
 No. But If you want this plugin to work on subscriptions, You can contact me at vkuberan@outlook.com
 
 = How can I help improve it? =
-You're the best. The [Beanstram for WooCommerce GitHub repository](https://github.com/vkuberan/beanstream-for-woocommerce) is a great place to start. Feel free to look through the issues already reported, or add your own. If you feel like you can fix something or improve the code, feel free to send a pull request and explain what's going on and I'll be glad to merge it into the plugin.
+You're the best. The [Beanstram for WooCommerce GitHub repository](https://github.com/GLIBX/beanstream-for-woocommerce) is a great place to start. Feel free to look through the issues already reported, or add your own. If you feel like you can fix something or improve the code, feel free to send a pull request and explain what's going on and I'll be glad to merge it into the plugin.
 
 = If you want to donate? =
 This plugin is completely open-source and completely free and will remain that way for it's entire life. With that said, this plugin is free and you're not required to pay a penny, but if this plugin helped you and your business and you feel it's worth some spare change, [send it here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vkuberan%40gmail%2ecom&lc=US&item_name=Thank%20you%20for%20your%20donation%20for%20Beanstream%20Gateway&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest). Thank you.

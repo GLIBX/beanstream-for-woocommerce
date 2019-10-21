@@ -4,7 +4,7 @@
  *
  * @class       Beanstream_API
  * @version     1.0
- * @author      Velmurugan Kuberan
+ * @author      Glibx Inc
  */
  
  if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
@@ -14,7 +14,7 @@
 	/**
 	 * Endpoints: Set api_endpoint URL with inline {0} & {1} for  platform & api version variable's respectively
 	 */
-	public static $api_endpoint = 'https://{0}.beanstream.com/api/{1}/';
+	public static $api_endpoint = 'https://api.na.bambora.com/v1/';
 
     /**
      * Post data to Beanstream's server by passing data and an API endpoint

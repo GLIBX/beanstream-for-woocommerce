@@ -8,9 +8,9 @@
  * @extends     WC_Payment_Gateway
  * @version     1.0
  * @package     WooCommerce/Classes/Payment
- * @author      Velmurugan Kuberan
+ * @author      Glibx Inc
  *
- * Thanks to both Stephen Zuniga & Sean Voss
+ * Thanks to both Stephen Zuniga & Sean Voss & Velmurugan Kuberan 
  * Stephen Zuniga // http://stephenzuniga.com
  * Sean Voss // https://github.com/seanvoss/striper
  *
