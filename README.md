@@ -14,3 +14,9 @@ If you use this plugin, all you have to do is include an SSL certificate on your
 
 ## Glibx INC
 This repo was originally created by vkuberan. we decided to take it further and contribute some key componants and will be kept up to date moving forward
+
+
+## TODO 
+
+Fix initiate refund issue (currently broken)
+Add additional helpful data on website admin section
